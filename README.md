@@ -24,7 +24,7 @@ Hi, I'm Jaganath, a Grade 11 CBSE student passionate about Artificial Intelligen
 ### 🟢 2. Open Source Contribution
 - Contributed to kana-dojo repository
 - Added new Japanese proverb via pull request (merged)
-
+👉 Repo: kana-dojo
 👉 File: japanese-proverbs.json
 
 ---
