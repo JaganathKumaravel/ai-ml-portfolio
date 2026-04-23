@@ -16,30 +16,16 @@ Hi, I'm Jaganath, a Grade 11 CBSE student passionate about Artificial Intelligen
 - Used Logistic Regression
 - Achieved ~80% accuracy
 
-👉 Folder: `Titanic_Project`
+👉 Repo: JaganathKumaravel/Titanic-survival-prediction
+
 
 ---
 
-### 🟢 2. Car Price Prediction (Regression)
-- Predicted car prices using ML regression
-- Used Linear Regression
-
-👉 Folder: `Regression_Project`
-
----
-
-### 🟢 3. Mini AI Project
-- Small ML-based project (classifier / recommender)
-
-👉 Folder: `Mini_AI_Project`
-
----
-
-### 🟢 4. Open Source Contribution
+### 🟢 2. Open Source Contribution
 - Contributed to kana-dojo repository
 - Added new Japanese proverb via pull request (merged)
 
-👉 Folder: `Open_Source`
+👉 File: japanese-proverbs.json
 
 ---
 
