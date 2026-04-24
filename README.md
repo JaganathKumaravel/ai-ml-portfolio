@@ -1,7 +1,7 @@
 # 🚀 AI/ML Portfolio – Jaganath
 
 ## 👋 About Me
-Hi, I'm Jaganath, a Grade 11 CBSE student passionate about Artificial Intelligence and Machine Learning.
+Hi, I'm Jaganath, a Grade 11 CBSE student passionate about Artificial Intelligence and Machine Learning, with hands-on experience in building, optimizing, and deploying end-to-end machine learning systems
 
 - 🎯 Goal: Crack JEE + Become an AI Engineer
 - 💻 Skills: Python, Pandas, NumPy, Scikit-learn
