@@ -26,7 +26,7 @@ Built a complete machine learning pipeline to predict passenger survival on the 
 
 🌐 Live API: https://titanic-api-80k7.onrender.com/docs
 
-👉 Repo: Titanic-survival-prediction
+👉 Repo: titanic-classification-project
 
 📌 Focus: End-to-end ML workflow + deployment + production-level structure
 
