@@ -11,12 +11,24 @@ Hi, I'm Jaganath, a Grade 11 CBSE student passionate about Artificial Intelligen
 
 ## 📂 Projects
 
-### 🟢 1. Titanic Survival Prediction
-- Built a classification model to predict passenger survival
-- Used Logistic Regression
-- Achieved ~80% accuracy
+### 🟢 1. Titanic Survival Prediction(End-to-End ML Project)
 
-👉 Repo: JaganathKumaravel/Titanic-survival-prediction
+Built a complete machine learning pipeline to predict passenger survival on the Titanic dataset.
+
+- Cleaned and preprocessed structured tabular data
+- Performed feature engineering (family size creation)
+- Trained a Logistic Regression classification model using Scikit-learn pipelines
+- Built a REST API using FastAPI for real-time predictions
+- Developed an interactive UI using Streamlit
+- Deployed the backend API on Render cloud platform
+
+🔧 Tech Stack: Python, Pandas, Scikit-learn, FastAPI, Streamlit, Render
+
+🌐 Live API: https://titanic-api-80k7.onrender.com/docs
+
+👉 Repo: Titanic-survival-prediction
+
+📌 Focus: End-to-end ML workflow + deployment + production-level structure
 
 
 ---
